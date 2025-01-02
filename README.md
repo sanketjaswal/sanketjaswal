@@ -1,8 +1,3 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
 
 <img src="https://media.licdn.com/dms/image/v2/D5616AQH2bW12CILZnw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724589836316?e=1741219200&v=beta&t=K6BcxiR7BK7eqreHJ9DMV7Tj29mgnnkR-XYm6O1dgxQ"></img>
 
@@ -11,14 +6,15 @@
 <br/>
 
 <div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/sanketjaswal?style=social)](https://www.github.com/sanketjaswal)
-[![LinkedIn Badge](https://img.shields.io/badge/-sanketjaswal-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sanket-jaswal/)](https://www.linkedin.com/in/sanket-jaswal/)
-[![Instagram Badge](https://img.shields.io/badge/-sanketjaswal-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sanketjaswal_/)](https://www.instagram.com/sanketjaswal_/)
-[![Codepen Badge](https://img.shields.io/badge/-sanketjaswal-white?style=flat-square&logo=Codepen&logoColor=black&link=https://codepen.io/sanketjaswal)](https://codepen.io/sanketjaswal)
+
+  <a href="https://github.com/sanketjaswal"><img alt="GitHub followers" src="https://img.shields.io/github/followers/sanketjaswal?style=for-the-badge&logo=github"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sanketjaswal772@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/JaswalSan"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/sanketjaswal_"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sanket-jaswal"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codepen.io/sanketjaswal"><img src="https://img.shields.io/badge/-codepen-black?style=for-the-badge&logo=Codepen&logoColor=white" alt="CodePen Badge" /> </a>  
 <!--[![Facebook Badge](https://img.shields.io/badge/-sriharikapu-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/officialsriharikapu)](https://www.facebook.com/officialsriharikapu)-->
 <!--[![Telegram Badge](https://img.shields.io/badge/-sriharikapu-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@sriharikapu)](https://telegram.org/@sriharikapu)-->
-<!--[![Website Badge](https://img.shields.io/badge/-sriharikapu-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=http://sriharikapu.com)](http://www.sriharikapu.com/)-->
 </div>
 
 <!--
