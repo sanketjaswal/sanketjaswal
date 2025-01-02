@@ -4,8 +4,6 @@
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
-<h1 align="center">Hi 👋, I'm Sanket Jaswal</h1>
-
 <img src="https://media.licdn.com/dms/image/v2/D5616AQH2bW12CILZnw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724589836316?e=1741219200&v=beta&t=K6BcxiR7BK7eqreHJ9DMV7Tj29mgnnkR-XYm6O1dgxQ"></img>
 
 <p align="justify">Full Stack Developer with 1.5 years of experience in the MERN stack, skilled in JavaScript, React, Node.js, Express, and MongoDB, building responsive web applications and real-time solutions.</p>
