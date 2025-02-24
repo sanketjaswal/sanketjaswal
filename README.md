@@ -48,6 +48,7 @@
 ![Express](https://img.shields.io/badge/EXPRESS-383838.svg?&Color=white&style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![EJS](https://img.shields.io/badge/EJS-8f3d3d.svg?&Color=white&style=for-the-badge&logo=ejs&logoColor=white)&nbsp;
 ![JWT](https://img.shields.io/badge/JWT-d63aff.svg?&Color=white&style=for-the-badge&logo=jwt)&nbsp;
+![VITE](https://img.shields.io/badge/VITE-02569B.svg?&style=for-the-badge&logo=vite&logoColor=white)&nbsp;
 ![SocketIO](https://img.shields.io/badge/SOCKET.IO-020202.svg?&Color=white&style=for-the-badge&logo=socket.io&logoColor=white)&nbsp;
 ![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=for-the-badge&logo=rest&logoColor=white)&nbsp;
 
