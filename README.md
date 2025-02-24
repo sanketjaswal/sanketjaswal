@@ -17,8 +17,10 @@
   <a href="mailto:sanketjaswal772@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/JaswalSan"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/sanketjaswal_"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/sanketjaswal/"><img src="https://img.shields.io/badge/-leetcode-grey?style=for-the-badge&logo=Leetcode" alt="Leetcode Badge" /> </a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sanket-jaswal"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://codepen.io/sanketjaswal"><img src="https://img.shields.io/badge/-codepen-black?style=for-the-badge&logo=Codepen&logoColor=white" alt="CodePen Badge" /> </a>  
+  <a href="https://codepen.io/sanketjaswal"><img src="https://img.shields.io/badge/-codepen-black?style=for-the-badge&logo=Codepen&logoColor=white" alt="CodePen Badge" /> </a> &nbsp;&nbsp;&nbsp;
+  
 <!--[![Facebook Badge](https://img.shields.io/badge/-sriharikapu-blue?style=for-the-badge-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/officialsriharikapu)](https://www.facebook.com/officialsriharikapu)-->
 <!--[![Telegram Badge](https://img.shields.io/badge/-sriharikapu-grey?style=for-the-badge-square&logo=Telegram&logoColor=white&link=https://telegram.org/@sriharikapu)](https://telegram.org/@sriharikapu)-->
 </div>
