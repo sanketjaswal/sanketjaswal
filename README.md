@@ -69,6 +69,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=for-the-badge&logo=visual-studio-code)&nbsp;
+![POSTMAN](https://img.shields.io/badge/postman-F66837.svg?&style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+
 
 </div>
 
