@@ -47,6 +47,7 @@
 </> **BACKEND**
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![Node](https://img.shields.io/badge/NODE-88bf00.svg?&Color=white&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![NPM](https://img.shields.io/badge/NPM-d60808.svg?&Color=white&style=for-the-badge&logo=npm&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/EXPRESS-383838.svg?&Color=white&style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![EJS](https://img.shields.io/badge/EJS-8f3d3d.svg?&Color=white&style=for-the-badge&logo=ejs&logoColor=white)&nbsp;
 ![JWT](https://img.shields.io/badge/JWT-d63aff.svg?&Color=white&style=for-the-badge&logo=jwt)&nbsp;
