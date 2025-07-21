@@ -1,5 +1,5 @@
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQH2bW12CILZnw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724589836316?e=1741219200&v=beta&t=K6BcxiR7BK7eqreHJ9DMV7Tj29mgnnkR-XYm6O1dgxQ"></img>
+<img src="https://drive.google.com/file/d/1gLPaYKaAuGVTH1Bxl-cCGv1cxYWVe_7-/view?usp=sharing"></img>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&vCenter=true&width=700&lines=MERN+Stack+Developer+with+1.5+Years+Experience.;Turning+visions+into+digital+realities.;Building+end-to-end+solutions%2C+from+UI%2FUX+to+databases." alt="Typing SVG" /></a>
 <p align="justify">Full Stack Developer with 1.5 years of experience in the MERN stack, skilled in JavaScript, React, Node.js, Express, and MongoDB, building responsive web applications and real-time solutions.</p>
 
