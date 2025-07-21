@@ -13,7 +13,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/sanketjaswal"><img alt="GitHub followers" src="https://img.shields.io/github/followers/sanketjaswal?style=for-the-badge&logo=github"></a>&nbsp;&nbsp;&nbsp;
+<!--   <a href="https://github.com/sanketjaswal"><img alt="GitHub followers" src="https://img.shields.io/github/followers/sanketjaswal?style=for-the-badge&logo=github"></a>&nbsp;&nbsp;&nbsp; -->
   <a href="mailto:sanketjaswal772@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/JaswalSan"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/sanketjaswal_"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
